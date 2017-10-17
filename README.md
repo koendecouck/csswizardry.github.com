@@ -1,12 +1,6 @@
-# csswizardry.com
+# koendecouck.github.io
 
-This is CSS Wizardry’s uncompiled Jekyll source code.
+This is uncompiled Jekyll source code.
 
-CSS Wizardry is built on [Jekyll](https://github.com/mojombo/jekyll) and
-[inuit.css](http://inuitcss.com), this repository houses the CSS Wizardry
-specific source code for both.
-
-Despite being open sourced, all CSS Wizardry code and content remain copyright
-of Harry Roberts.
-
-<i>H</i>
+Built on [Jekyll](https://github.com/mojombo/jekyll) and
+[inuit.css](http://inuitcss.com), this repository houses the specific source code for both. It is branched from csswizardry.com
