@@ -6,7 +6,7 @@ meta: "Affordable, remote code reviews and performance audits for your product"
 permalink: /code-reviews/
 ---
 
-<p class="u-text-prominent">£1,920 (+VAT)</p>
+<p class="u-text-prominent">$2,500 (+tax)</p>
 
 For clients who don’t yet need a full consultancy engagement, or an entire
 workshop, or maybe just need to learn what they need to fix next, there is an
@@ -31,17 +31,18 @@ anything else that supports the audit.
 The practical upshot of which is an improved codebase for the particular
 product, site, or app in question, but also—and more importantly—a formal
 document based around your own code which would prevent you making the same
-mistakes in future. A tailored lesson, centred around your own work. For a more
-detailed overview of the service, please read [the associated blog
-post](/2013/11/code-reviews-as-service/). If you have _any_ questions about code
-reviews then please feel free to [email me](mailto:csswizardry@gmail.com).
+mistakes in future. A tailored lesson, centred around your own work. 
+<!-- For a more detailed overview of the service, please read [the associated blog
+post](/2013/11/code-reviews-as-service/). -->
+If you have _any_ questions about code
+reviews then please feel free to [email me](mailto:koen.decouck@outlook.com).
 
 **N.B.:** Audits and reviews are tailored to your specific project or problem: I
 will survey you before we start and find out if there are particular areas you’d
 like me to focus on more than others. It might be an off-the-shelf solution, but
 it still needs to provide individual value.
 
-Code review clients include: the BBC, Hired, UEFA.
+Code review clients include: Clean Energy Institute
 
 - - -
 
@@ -53,8 +54,8 @@ Code review clients include: the BBC, Hired, UEFA.
 ## Performance Audits
 
 <blockquote class="pull-quote" id="quote:darius-contractor">
-  <p>We sliced 1.5s off PhotoSugar’s page load times using Harry’s knowledge.</p>
-  <b class="source  pull-quote__source">Darius Contractor, <a href="http://www.photosugar.com/">PhotoSugar</a></b>
+  <p>Koen’s knowledge helped us understand cryptic parts of legacy code for our solar radiometer, and dramatically update and expand our system</p>
+  <b class="source  pull-quote__source">Shaun Taylor, <a href="https://www.cei.washington.edu/">Clean Energy Institute</a></b>
 </blockquote>
 
 If your site seems slow, or you know your performance could be improved, you
@@ -74,7 +75,7 @@ This will leave you well poised to begin implementing performance improvements
 across the entire stack, and faster sites mean more conversions, better
 retention, reduced costs, and happier users.
 
-<a href="mailto:csswizardry@gmail.com?subject=Performance%20Audit" class="btn  btn--full">Arrange an Audit</a>
+<a href="mailto:koen.decouck@outlook.com?subject=Performance%20Audit" class="btn  btn--full">Arrange an Audit</a>
 
 - - -
 
@@ -84,13 +85,6 @@ retention, reduced costs, and happier users.
 </ul>
 
 ## Code Reviews
-
-<blockquote class="pull-quote" id="quote:rich-fogarty">
-  <p>Harry’s focused, practical approach allowed us to implement significant
-  changes which improved our user experience and overall performance
-  dramatically. I recommend him wholeheartedly.</p>
-  <b class="source  pull-quote__source">Rich Fogarty, <a href="http://concreteplayground.com">Concrete Playground</a></b>
-</blockquote>
 
 This service is perfect for projects whose budget typically would not stretch to
 getting me on-site for a number of days, but do require the same type and
@@ -110,4 +104,4 @@ project. In it, I will:
 This will leave your team in a good place to begin tackling any tech debt, as
 well as opening up the codebase to be further extended and developed upon.
 
-<a href="mailto:csswizardry@gmail.com?subject=Code%20Review" class="btn  btn--full">Arrange a Review</a>
+<a href="mailto:koen.decouck@outlook.com?subject=Code%20Review" class="btn  btn--full">Arrange a Review</a>

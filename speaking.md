@@ -2,19 +2,19 @@
 layout: page
 title: Speaking
 page-class: page--services  page--speaking
-meta: "Harry Roberts’ past and upcoming speaking engagements"
+meta: "Koen De Couck’s past and upcoming speaking engagements"
 permalink: /speaking/
 ---
 
-Having spoken at well over 50 public events, sharing my knowledge with
+Having spoken at many public events, sharing my knowledge with
 development and product teams is something I am both very experienced with and
-hugely passionate about. If you’re running an event would like me to speak, I
+hugely passionate about. If you’re running an event and would like me to speak, I
 have prepared [some information for you](#section:request).
 
 As well as speaking at development conferences, I can (and indeed do) speak at
 private engagements for companies and their staff. If you are a company who
 would like a tech talk to be delivered on-site to a private audience, please do
-[get in touch](mailto:csswizardry@gmail.com?subject=Internal%20Tech%20Talk).
+[get in touch](mailto:koen.decouck@outlook.com?subject=Internal%20Tech%20Talk).
 
 If you feel like you’d like something a little more involved and in-depth, then
 you’re probably looking for a workshop. I’ve run countless workshops for both
@@ -37,32 +37,7 @@ Want to see where I’m speaking next? [Check out the list.](#section:upcoming-e
 <ol class="list-ui">
 
   {% include speaking.html %}
-
-  <li>
-    <h3 class="list-ui__title">Talk &amp; Workshop</h3>
-    <img src="/img/icons/uk.png" alt="" /> <a href="https://pixelpioneers.co/events/belfast-2017">Pixel Pioneers</a>, Belfast (Northern Ireland), November 2017
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Workshop</h3>
-    <img src="/img/icons/uk.png" alt="" /> <a href="https://graaft.co/">Graaft</a>, Manchester (United Kingdom), November 2017
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Workshop</h3>
-    <img src="/img/icons/hr.png" alt="" /> <a href="http://hura.hr/howtowow/harry-roberts-front-end-performance-building-faster-websites/">HURA</a>, Zagreb (Croatia), December 2017
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk &amp; Workshop</h3>
-    <img src="/img/icons/pl.png" alt="" /> <a href="http://www.codeeurope.pl/en">Code Europe</a>, Wrocław (Poland), December 2017
-  </li>
-
 </ol>
-
-
-
-
 
 <ul class="c-nav-secondary  mt++" id="section:request">
   <li class="c-nav-secondary__item"><a href="#section:upcoming-events" class="c-nav-secondary__link">Upcoming</a></li>
@@ -75,25 +50,25 @@ Want to see where I’m speaking next? [Check out the list.](#section:upcoming-e
 I would absolutely love to speak at your conference! However, I do just have a
 few questions to make the whole process a lot simpler and upfront for everyone
 involved. If you could [fire me an
-email](mailto:csswizardry@gmail.com?subject=Speaking%20Request)
+email](mailto:koen.decouck@outlook.com?subject=Speaking%20Request)
 answering as many of the below as possible, I’d be really grateful. If you don’t
 have answers to everything just yet, please don’t worry—this is just a rough
 starting point, not a test. Please also remember that **there is no right or
 wrong answer** to any of these questions.
 
-* **When and where is your conference?** I once [travelled 12,000
-  miles](https://www.google.co.uk/search?q=distance+leeds+to+wellington)
+* **When and where is your conference?** I once [travelled 4,000
+  miles](https://www.google.com/search?q=distance+brussels+to+sanjuan)
   to give a talk; I’m not afraid of a commute.
 * **How many attendees do you expect to have?** Rough figures or previous sizes
   are perfectly fine.
 * **What kind of audience do you have?** It helps to know what the audience will
-  be like (e.g. mainly front-end developers, mainly designers, etc.).
+  be like (e.g. mainly developers, mainly business users, etc.).
 * **Which other speakers have you approached?** It helps to be aware of any
   other speakers who run the risk of delivering similar talks.
 * **How long does the talk need to be?** Do you have a set talk duration? 45
   minutes is usually ideal.
 * **Do you cover speaker expenses?** Flights, hotels, train journeys, etc.
-* **What kind of talk would you like?** I usually give technical talks (CSS
+* **What kind of talk would you like?** I usually give technical talks (Hadoop
   architecture, performance, etc.), but am open to discussing other topics.
 * **Do you require a brand new talk?** Writing talks takes a lot of time and
   effort: forewarned is forearmed.
@@ -108,14 +83,8 @@ I will help to promote and publicise your event. I will endeavour to make myself
 available to attendees for the entire duration of the event. I will attend all
 social activities surrounding the event. I will deliver a quality talk of
 practical relevance. I will gladly allow you to record and distribute my talk.
-[I hold myself to a high
-standard](/2016/06/speakers-checklist-before-and-after-your-talk/).
 
-<a href="mailto:csswizardry@gmail.com?subject=Speaking%20Request" class="btn  btn--full">Sound okay? <strong>Get in touch!</strong></a>
-
-
-
-
+<a href="mailto:koen.decouck@outlook.com?subject=Speaking%20Request" class="btn  btn--full">Sound okay? <strong>Get in touch!</strong></a>
 
 <ul class="c-nav-secondary  mt++" id="section:past-events">
   <li class="c-nav-secondary__item"><a href="#section:upcoming-events" class="c-nav-secondary__link">Upcoming</a></li>
@@ -126,380 +95,24 @@ standard](/2016/06/speakers-checklist-before-and-after-your-talk/).
 ## Past Events
 
 <ol class="list-ui  mb" reversed>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/us.png" alt="" /> <a href="http://2017.cssdevconf.com/">CSS Dev Conf</a>, New Orleans (US), October 2017
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/fr.png" alt="" /> <a href="https://www.paris-web.fr">Paris Web</a>, Paris (France), October 2017
-  </li>
-
   <li>
     <h3 class="list-ui__title">Workshop</h3>
-    <img src="/img/icons/en.png" alt="" /> <a href="http://www.whiteoctoberevents.co.uk/training/front-end-performance">White October</a>, London (UK), September 2017
+    <img src="/img/icons/uk.png" alt="" /> <a href="https://www.psychometrics.cam.ac.uk/about-us/directory/koen-de-couck">Psychometrics Centre Testing Seminar</a>, University of Cambridge (UK), December 2012
   </li>
-
   <li>
     <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/by.png" alt="" /> <a href="http://css-minsk-js.by/">CSS Minsk JS</a>, Minsk (Belarus), September 2017
+    <img src="/img/icons/uk.png" alt="" /> <a href="http://talks.cam.ac.uk/user/show/30656">University of Cambridge Research Talk</a>, Cambridge (UK), December 2012
   </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk &amp; Workshop</h3>
-    <img src="/img/icons/en.png" alt="" /> <a href="https://reasons.to/2017/brighton">Reasons to:</a>, Brighton (UK), September 2017
-  </li>
-
   <li>
     <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/hr.png" alt="" /> <a href="https://www.meetup.com/TinelMeetup/">Tinel Meetup</a>, Split (Croatia), August 2017
+    <img src="/img/icons/be.png" alt="" /> <a href="http://">Ghent University</a>, Ghent (Belgium), May 2009
   </li>
-
   <li>
     <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/us.png" alt="" /> <a href="https://smashingconf.com/ny-2017/">SmashingConf</a>, New York (US), June 2017
+    <img src="/img/icons/nl.png" alt="" /> <a href="http://">Erasmus University Conference</a>, Rotterdam (Netherlands), April 2009
   </li>
-
   <li>
     <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/pl.png" alt="" /> <a href="http://jandbeyond.org/">J and Beyond</a>, Kraków (Poland), June 2017
+    <img src="/img/icons/nl.png" alt="" /> <a href="http://">University of Leiden Conference</a>, Leiden (Netherlands), May 2008
   </li>
-
-  <li>
-    <h3 class="list-ui__title">Workshop</h3>
-    <img src="/img/icons/gr.png" alt="" /> <a href="http://devitconf.org/">DEVit</a>, Thessaloniki, (Greece) May 2017
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/pl.png" alt="" /> <a href="https://infoshare.pl/">infoShare</a>, Gdańsk, (Poland) May 2017
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/at.png" alt="" /> <a href="https://www.wearedevelopers.org/">WeAreDevelopers</a>, Vienna (Austria), May 2017
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Workshop</h3>
-    <img src="/img/icons/en.png" alt="" /> <a href="http://www.whiteoctoberevents.co.uk/training/front-end-performance">White October Events</a>, London (England), April 2017
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/bg.png" alt="" /> <a href="https://bulgariawebsummit.com/">Bulgaria Web Summit</a>, Sofia, (Bulgaria) April 2017
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Workshop</h3>
-    <img src="/img/icons/nl.png" alt="" /> <a href="http://pages.xebia.com/events/css-performance-en-architectuur-workshop">Xebia</a>, Amsterdam, (Netherlands) March 2017
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/ie.png" alt="" /> <a href="https://www.meetup.com/DublinCSS/events/234858690/">DublinCSS</a>, Dublin, (Ireland) February 2017
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/is.png" alt="" /> <a href="https://2017.iceweb.is/">IceWeb Conference</a>, Reykjavik, (Iceland) January 2017
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/en.png" alt="" /> <a href="http://dxnevent.com/">Design Exchange</a>, Nottingham, (UK), January 2017
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Workshop</h3>
-    <img src="/img/icons/en.png" alt="" /> <a href="http://www.whiteoctoberevents.co.uk/training/advanced-css-architecture">White October Events</a>, London (England), November 2016
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/en.png" alt="" /> <a href="https://www.meetup.com/London-CSS-Meetup/events/234913062/">London CSS</a>, London (England), November 2016
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/nl.png" alt="" /> <a href="http://www.meetup.com/frontmen/">FrontMen Guru Sessions</a>, Amsterdam (Netherlands), November 2016
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk &amp; Workshop</h3>
-    <img src="/img/icons/ee.png" alt="" /> <a href="http://topconf.com/tallinn-2016/">Topconf</a>, Tallinn (Estonia), November 2016
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk &amp; Workshop</h3>
-    <img src="/img/icons/de.png" alt="" /> <a href="https://beyondtellerrand.com/events/berlin-2016">Beyond Tellerrand</a>, Berlin (Germany), November 2016
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/pl.png" alt="" /> <a href="http://code4life.pl/">Code4Life</a>, Warsaw (Poland), October 2016
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/en.png" alt="" /> <a href="https://2016.webdevconf.com/">WDC</a>, Bristol (England), October 2016
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/en.png" alt="" /> <a href="http://frontendnorth.com/">FrontEndNorth</a>, Sheffield (England), September 2016
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/cz.png" alt="" /> <a href="https://webexpo.net/prague2016/">WebExpo</a>, Prague (Czech Republic), September 2016
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <a href="https://www.shopify.com/partners/blog/free-webinar-refactoring-css-without-losing-your-mind">Shopify Webinar</a>, Remote/Online, September 2016
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/en.png" alt="" /> <a href="https://mkgeeknight.co.uk/">MK Geek Night</a>, Milton Keynes (England), September 2016
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/ch.png" alt="" /> <a href="https://frontendconf.ch/">Frontend Conference</a>, Zürich (Switzerland), September 2016
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/ar.png" alt="" /> <a href="http://cssconfar.com/">CSSconf Argentina</a>, Buenos Aires (Argentina), August 2016
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/nl.png" alt="" /> <a href="http://cssday.nl/">CSS Day</a>, Amsterdam (Netherlands), June 2016
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/sc.png" alt="" /> <a href="http://scotlandcss.com/">ScotlandCSS</a>, Edinburgh (Scotland), June 2016
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/be.png" alt="" /> <a href="http://frontendunited.org/">Front-end United</a>, Ghent (Belgium), May 2016
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/pl.png" alt="" /> <a href="https://2016.front-trends.com/">Front-Trends</a>, Warsaw (Poland), May 2016
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Workshop</h3>
-    <img src="/img/icons/at.png" alt="" /> <a href="http://topconf.com/onedayevent/css-workshop/">Topconf</a>, Linz (Austria), May 2016
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/en.png" alt="" /> <a href="https://heyst.ac/lectures/the-life-of-a-travelling-css-architect">Hey!Stac</a>, Leeds (England), April 2016
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk &amp; Workshop</h3>
-    <img src="/img/icons/en.png" alt="" /> <a href="http://www.render-conf.com/">Render</a>, Oxford (England), April 2016
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk &amp; Workshop</h3>
-    <img src="/img/icons/us.png" alt="" /> <a href="http://smashingconf.com/sf-2016/">SmashingConf</a>, San Francisco (US), April 2016
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Workshop</h3>
-    <img src="/img/icons/en.png" alt="" /> <a href="http://www.whiteoctoberevents.co.uk/event/css-workshop-march-2016/">White October Events</a>, London (England), March 2016
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk &amp; Workshop</h3>
-    <img src="/img/icons/nz.png" alt="" /> <a href="http://www.webstock.org.nz/16/">Webstock</a>, Wellington (New Zealand), February 2016
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/at.png" alt="" /> <a href="http://topconf.com/linz-2016/">Topconf</a>, Linz (Austria), February 2016
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Workshop</h3>
-    <img src="/img/icons/en.png" alt="" /> <a href="http://workintheweb.com/">Work in the Web</a>, Leeds (England), January 2016
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Workshop</h3>
-    <img src="/img/icons/en.png" alt="" /> <a href="http://www.whiteoctoberevents.co.uk/event/css-workshop-january-2016/">White October Events</a>, London (England), January 2016
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/es.png" alt="" /> <a href="http://www.meetup.com/Barcelona-Web-Performance/events/228088580/">Web Perf Barcelona</a>, Barcelona (Spain), January 2016
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/en.png" alt="" /> <a href="http://beyondconf.co/">Beyond</a>, London (England), November 2015
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Workshop</h3>
-    <img src="/img/icons/en.png" alt="" /> <a href="http://www.whiteoctoberevents.co.uk/event/css-workshop-november/">White October Events</a>, London (England), November 2015
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Workshop</h3>
-    <img src="/img/icons/en.png" alt="" /> <a href="http://www.whiteoctoberevents.co.uk/event/css-workshop-september/">White October Events</a>, London (England), September 2015
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/it.png" alt="" /> <a href="http://2015.fromthefront.it/">From The Front</a>, Bologna (Italy), September 2015
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/de.png" alt="" /> <a href="http://smashingconf.com/freiburg-2015/">SmashingConf</a>, Freiburg (Germany), September 2015
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Workshop</h3>
-    <img src="/img/icons/en.png" alt="" /> <a href="http://dotyork.com/events/event?event=2015-04-08-workshop-css-architecture-for-large-scale-uis">DotYork</a>, York (England), April 2015
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/au.png" alt="" /> <a href="http://2015.cssconf.com.au/">CSSConf</a>, Melbourne (Australia), March 2015
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/fi.png" alt="" /> <a href="http://frontend.fi/">Frontend.fi</a>, Helsinki (Finland), March 2015
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/en.png" alt="" /> <a href="http://reasons.to/">Reasons:London</a>, London (England), February 2015
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/fr.png" alt="" /> <a href="http://www.dotcss.eu/">dotCSS</a>, Paris (France), November 2014
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/rs.png" alt="" /> <a href="http://dafed.org">DaFED</a>, Novi Sad (Serbia), November 2014
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/no.png" alt="" /> <a href="http://trondheimdc.no/">Trondheim Developer Conference</a>, Trondheim (Norway), October 2014
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk &amp; Workshop</h3>
-    <img src="/img/icons/ro.png" alt="" /> <a href="http://www.smartwebconf.com/">SmartWeb Conference</a>, Bucharest (Romania), September 2014
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/hr.png" alt="" /> <a href="http://2014.thegeekgathering.org/">The Geek Gathering</a>, Osijek (Croatia), May 2014
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/en.png" alt="" /> <a href="http://dotyork.com/">DotYork</a>, York (England), May 2014
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/en.png" alt="" /> <a href="http://industryconf.com/">Industry Conf</a>, Newcastle (England), April 2014
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk &amp; Workshop</h3>
-    <img src="/img/icons/en.png" alt="" /> <a href="http://futureofwebdesign.com/london-2014/">Future of Web Design</a>, London (England), April 2014
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Workshop</h3>
-    <img src="/img/icons/en.png" alt="" /> <a href="http://www.eventhandler.co.uk/events/eventhandlerclass-cssarchitecture2">Event Handler</a>, London (England), March 2014
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Workshop</h3>
-    <img src="/img/icons/en.png" alt="" /> <a href="http://www.eventhandler.co.uk/events/eventhandlerclass-cssarchitecture">Event Handler</a>, London (England), February 2014
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Workshop</h3>
-    <img src="/img/icons/ch.png" alt="" /> <a href="https://shop.smashingmagazine.com/smashing-workshop-planning-building-front-end-zurich.html">Smashing Workshop</a>, Zürich (Switzerland), December 2013
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Workshop</h3>
-    <img src="/img/icons/en.png" alt="" /> <a href="http://makedo.in/leeds/css-workshop/">Make Do</a>, Leeds (England), November 2013
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/en.png" alt="" /> <a href="http://www.hashtagtide.co/">#TIDE</a>, Scarborough (England), October 2013
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk &amp; Workshop</h3>
-    <img src="/img/icons/nl.png" alt="" /> <a href="http://fronteers.nl/congres/2013">Fronteers</a>, Amsterdam (Netherlands), October 2013
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/de.png" alt="" /> <a href="http://2013.cssconf.eu/">CSSconf.eu</a>, Berlin (Germany), September 2013
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/en.png" alt="" /> <a href="http://hey.wearestac.com/">Hey!Stac</a>, Leeds (England), June 2013
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/de.png" alt="" /> <a href="http://2013.beyondtellerrand.com/">Beyond Tellerrand</a>, Düsseldorf (Germany), May 2013
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/en.png" alt="" /> <a href="http://industryconf.com/">Industry Conf</a>, Newcastle (England), April 2013
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/en.png" alt="" /> <a href="http://thedigitalbarn.co.uk/">Digital Barn</a>, Barnsley (England), September 2012
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/en.png" alt="" /> <a href="http://2012.canvasconf.co.uk/">Canvas</a>, Birmingham (England), September 2012
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/pl.png" alt="" /> <a href="http://2012.front-trends.com/">Front-Trends</a>, Warsaw (Poland), April 2012
-  </li>
-
-  <li>
-    <h3 class="list-ui__title">Talk</h3>
-    <img src="/img/icons/en.png" alt="" /> <a href="http://thedigitalbarn.co.uk/">Digital Barn</a>, Barnsley (England), February 2012
-  </li>
-
 </ol>

@@ -1,3 +1,8 @@
+.DS_Store
+notes.txt
+Gemfile
+Gemfile.lock
+
 .sass-cache/
 _site/
 PSDs/

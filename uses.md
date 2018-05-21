@@ -13,36 +13,22 @@ halves, [software](#software) and [hardware](#hardware).
 * [Software](#software)
   * [iTerm2](#iterm2)
   * [Vim](#vim)
-  * [Operator Mono](#operator-mono)
   * [Git](#git)
   * [CLI Tools](#cli-tools)
-  * [Dotfiles](#dotfiles)
   * [Chrome](#chrome)
-  * [Adobe Creative Cloud](#adobe-creative-cloud)
   * [Sketch](#sketch)
   * [Slack](#slack)
-  * [1Password and ZenMate](#1password-and-zenmate)
-  * [Netflix and MUBI](#netflix-and-mubi)
   * [Dropbox](#dropbox)
-  * [Priority Pass](#priority-pass)
-  * [Misc macOS](#misc-macos)
+  * [LibreOffice](#office)
 * [Hardware](#hardware)
-  * [Office](#office)
   * [MacBook Pro](#macbook-pro)
-  * [27″ Thunderbolt Display](#27-thunderbolt-display)
   * [iPhone](#iphone)
-  * [Nexus 5](#nexus-5)
-  * [Shure SE425](#shure-se425)
-  * [Apple Watch](#apple-watch)
-  * [Aeron Chair](#aeron-chair)
-  * [Blue Yeti Mic](#blue-yeti-mic)
-  * [Minaal](#minaal)
 
 - - -
-
+<!--
 ## Software
 
-Naturally, as a web developer, software is pretty important to me. I use many
+Naturally, as a developer, software is pretty important to me. I use many
 different tools depending on what I need to do, but the following is the kind of
 stuff I use daily, or would be one of the first things I install on a new
 machine.
@@ -75,7 +61,7 @@ window.
 ### Vim
 
 > How do you spot a Vim user at a dinner party? Oh, don’t worry, they’ll tell
-> you. — [@csswizardry](https://twitter.com/csswizardry/status/831929830103011330)
+> you. — [@koendecouck](https://twitter.com/koendecouck/status/831929830103011330)
 
 I’m a very avid and unashamed [Vim](http://www.vim.org/) user. I’ve been using
 it for about five years now and still learn something new every time I fire it
@@ -134,13 +120,13 @@ I use a bunch of handy tools from the command line on a daily basis:
 
 * [Ack](https://beyondgrep.com/): A better source code search for programmers. I
   absolutely _love_ Ack. Read more about why [you should use it
-  too](https://csswizardry.com/2017/01/ack-for-css-developers/).
+  too](https://koendecouck.github.io/2017/01/ack-for-css-developers/).
 * [ghi](https://github.com/stephencelis/ghi): View your repo’s GitHub issues
   from right there on the command line!
 * [Parker](https://github.com/katiefenn/parker): Static analysis for your CSS
   projects. My buddy [Katie](http://www.katiefenn.co.uk/) made this and it’s so
   good. Here’s how you can [make the most of
-  it](https://csswizardry.com/2016/06/improving-your-css-with-parker/).
+  it](https://koendecouck.github.io/2016/06/improving-your-css-with-parker/).
 * [Wget](https://www.gnu.org/software/wget/) and [curl](https://curl.haxx.se/):
   I feel like I use Wget as more of a utility, mainly for just saving files to
   disk, and curl as more of a debugging tool (inspecting headers, for example).
@@ -148,7 +134,7 @@ I use a bunch of handy tools from the command line on a daily basis:
 ### Dotfiles
 
 I host [my dotfiles on
-GitHub](https://github.com/csswizardry/dotfiles/blob/master/.vimrc), if you’re
+GitHub](https://github.com/koendecouck/dotfiles/blob/master/.vimrc), if you’re
 interested in taking a look. There’s nothing really remarkable in most of them.
 
 ### Chrome
@@ -171,7 +157,7 @@ vector work.
 ### Sketch
 
 I worked on [a project for the
-NHS](https://csswizardry.com/case-studies/nhs-nhsx-elearning-platform/) a few
+NHS](https://koendecouck.github.io/case-studies/nhs-nhsx-elearning-platform/) a few
 years back and the designer was using [Sketch](https://www.sketchapp.com/). I
 bought a copy so that I was able to properly translate the designs, but haven’t
 really used it much since. I really admire what Sketch is doing—proving that a
@@ -394,7 +380,7 @@ The Minaal is designed specifically with frequent travelers in mind, and it
 shows. It has a well placed compartment for every occasion, and it holds _so
 much_. I did two weeks of travel with it and didn’t need to do any laundry or
 wear any item of clothing twice. The capacity is astounding!
-
+-->
 - - -
 
 I think that’s about everything. If there’s anything more specific you’d like to

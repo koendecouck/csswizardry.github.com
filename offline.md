@@ -2,7 +2,7 @@
 layout: page
 title: "Oops! It Looks Like You’re Offline"
 page-class: page--offline
-meta: "CSS Wizardry’s offline content"
+meta: "Koen De Couck’s offline content"
 permalink: /offline/
 ---
 
@@ -11,17 +11,15 @@ offline content for you to read whilst you wait for your connection to come
 back:
 
 * [head to the homepage](/);
-* [read a little more about CSS Wizardry](/about/);
+* [read a little more about Koen De Couck](/about/);
 * [learn about the services I offer](/services/);
-* [see how I helped Ocado level up their CSS skills](/case-studies/ocado-workshop/), or;
+* [see how I helped Medialaan set up an Hadoop architecture](/case-studies/medialaan-cloudera/), or;
 * [find out how best to get in touch with me](/contact/).
 
 Or if you’d like to read something:
 
-* [Pragmatic, Practical, and Progressive Theming with Custom Properties](/2016/10/pragmatic-practical-progressive-theming-with-custom-properties/)
-* [Mixins Better for Performance](/2016/02/mixins-better-for-performance/)
-* [More Transparent UI Code with Namespaces](/2015/03/more-transparent-ui-code-with-namespaces/)
-* [BEMIT: Taking the BEM Naming Convention a Step Further](/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/)
+* [MD Formatting Example](/2018-02-18-formattingexample/)
+* [Why I type in Dvorak](/2014-08-07-dvorak/)
 
 I’m next speaking at:
 

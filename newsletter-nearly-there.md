@@ -13,11 +13,11 @@ There are also a couple of other things you might need to do:
 
 1. **Check your spam or Promotions folders** because the first email(s) might
    end up in there.
-2. **Add `harry@csswizardry.com` as a contact** so that CSS Wizardry emails get
+2. **Add `koen.decouck@outlook.com` as a contact** so that news emails get
    whitelisted. I’m sending from a personal account, so you’re not adding
 anything corporate or spammy.
 
 I really wish there weren’t so many hoops for you to jump through. I’m sorry.
 
 See you soon!  
-_Harry_
+_Koen_

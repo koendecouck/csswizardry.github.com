@@ -1,11 +1,11 @@
 {
-  "name": "csswizardry.com",
+  "name": "koendecouck.github.io",
   "version": "0.0.0",
-  "homepage": "https://github.com/csswizardry/csswizardry.github.com",
+  "homepage": "https://github.com/koendecouck/koendecouck.github.com",
   "authors": [
-    "Harry Roberts <harry@csswizardry.com>"
+    "Koen De Couck <koen.decouck@outlook.com>"
   ],
-  "description": "CSS for CSS Wizardry",
+  "description": "CSS for KoenDeCouck",
   "main": "csswizardry.scss",
   "license": "Apache",
   "private": true,

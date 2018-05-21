@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CSS Wizardry Newsletter
+title: Newsletter Updates
 page-class: page--newsletter
 meta: "Join the club!"
 permalink: /newsletter/
@@ -27,18 +27,15 @@ And you should not expect:
 * Updates for the sake of updates. I will only publish when there’s something
   worth sharing.
 
-<a href="http://csswizardry.us14.list-manage2.com/subscribe?u=95f3f41085f5f957a07ba5efd&id=ba05b5418d" class="btn  btn--full">Sign up</a>
+<a href="http://koendecouck.us14.list-manage2.com/subscribe?u=000&id=000" class="btn  btn--full">Sign up</a>
+<!-- MailChimp link -->
 
 Not that fussed about email? You can still catch me [on
-Twitter](https://twitter.com/csswizardry) instead.
+Twitter](https://twitter.com/koendecouck) instead.
 
 ## Previous Issues
 
 {% include newsletter-previous.html %}
-
-
-
-
 
 <ul class="c-nav-secondary  mt++" id="section:sponsors">
   <li class="c-nav-secondary__item"><a href="#section:subscribers" class="c-nav-secondary__link">For Subscribers</a></li>

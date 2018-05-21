@@ -5,21 +5,16 @@ page-class: page--services
 meta: "Services offered to clients of all shapes and sizes"
 permalink: /services/
 ---
+<blockquote class="pull-quote  pull-quote--context-alt" id="quote:wim-vanhees"><p>Very happy to find Koen, his customer service outshines any other provider we've worked with.</p><b
+class="source pull-quote__source">Wim Van Hees, Aurisolar bvba</b></blockquote>
 
-<blockquote class="pull-quote  pull-quote--context-alt" id="quote:addy-osmani"><p>Harry’s tailored
-workshop was nothing short of fantastic, and a real eye-opener, helping our team
-level up their scalable CSS architecture skills. The entire team left it
-learning something new, and to say that what was covered will have a large
-impact on our work is an understatement. We can’t recommend him enough.</p><b
-class="source pull-quote__source"><a href="https://twitter.com/addyosmani">Addy
-Osmani</a>, Google</b></blockquote>
-
-For many years now, I have worked as an independent consultant, helping some of
+For many years now, I have worked as a consultant, helping some of
 the biggest companies in the world to improve their products by providing
-consultancy, audits, code, workshops, and more.
+designs, guidance, audits, code, workshops, and more.
 
 With a strong focus on performance and efficiency, my work aims to leave
-companies with faster code and faster teams.
+companies with faster code and faster teams. 
+I take personal pride in the high quality I deliver, as all my references will agree.
 
 Thinking of hiring me? [You’re in good company](/#section:clients).
 
