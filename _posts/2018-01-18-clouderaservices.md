@@ -41,6 +41,10 @@ _Apache Hadoop Distributed File System (HDFS) is the primary storage system used
 **Hive**
 _Hive is a data warehouse system that offers a SQL-like language called HiveQL._
 
+HiveQL ~ SQL
+Data warehouse infrastructure tool to process structured data in Hadoop
+Best used for batch jobs over large sets of immutable data. It isn't designed for live real-time queries and row level updates.
+
 <figure>
   <img src="/posts/20180118-clouderaservices/hue.png" alt="">
 </figure>
