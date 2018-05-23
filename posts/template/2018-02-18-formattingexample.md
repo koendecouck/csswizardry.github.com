@@ -42,6 +42,13 @@ Terminal command formatting is made like this:
 
 Which displays the text in something resembling the terminal window. The dollar sign is displayed along with the following code.
 
+Code blocks are fenced by backticks
+
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+
 - - -
 
 And then there's this:
