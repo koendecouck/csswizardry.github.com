@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Renaming Hive Partition Values"
-date: 2018-12-13 15:24:00
+date: 2016-12-13 15:24:00
 categories: Cloudera, Hortonworks, Hive
 meta: "Problems with Hive Partition Renames"
 ---

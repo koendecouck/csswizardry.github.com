@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Same query, different results (Impala VS Hive)"
+title: "Same query, different results (Impala vs Hive)"
 date: 2018-02-14 13:13:00
 categories: cloudera, hive, impala
 meta: "impala hive assumption differences"
@@ -49,7 +49,7 @@ If your original data was however written by Hive, then this can really mess you
 
 Best case scenario this behavior threw off some of your SELECT scripts, and your reported time is off by a few hours. Worst case scenario you've been using converted timestamps for your partitioning, only to find out that data isn't necessarily placed where you thought it would be.
 
-**A possible solution
+**A possible solution**
 
 As far as I know there is no way to turn off this behavior in Impala. It seems to be hardcoded on a very deep level. If you're going to be using both Impala and Hive then the solution is to let departments know that all timestamps are UTC time, and to make sure Hive mimicks the same 'intelligent' behavior as Impala does, i.e. by converting timestamps to UTC when you first insert them in a table.
 

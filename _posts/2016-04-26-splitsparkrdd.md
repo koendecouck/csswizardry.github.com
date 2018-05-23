@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to sort a Spark rdd on array element"
-date: 2018-04-26 8:47:00
+date: 2016-04-26 8:47:00
 categories: scala, apache-spark, rdd
 meta: "Spark rdd manipulation"
 ---
