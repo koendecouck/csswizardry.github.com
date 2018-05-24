@@ -33,7 +33,7 @@ I previously worked for a big data consultancy called [Big Industries](http://ww
 I [write](/books/), [work](/services/),
 [speak](/speaking/), and [run workshops](/workshops/) across the globe covering pragmatic, product-led approaches to building and scaling data systems. I specialise in Hadoop architecture, scalability, performance, and design process strategy.
 
-I'm an alumni of the Universities of [Ghent](http://www.ugent.be), [Rotterdam](http://www.eur.nl), [Cambridge](http://www.cam.ac.uk) and [Washington](http://www.washington.edu), where my course work focused on multivariate statistics, data science and programming. I am also a [Fulbright alumni](http://www.fulbright.be) and a member of [Under 30 Changemakers](https://www.facebook.com/groups/u30change/), [Change](http://change.washington.edu/),  [Design-Use-Build (DUB)](http://www.dub.washington.edu/people/koen-de-couck), [Kairos Society](http://www.kairossociety.org), [Cambridge Scientific Society](http://www.scisoc.com) and an affiliated member of the [Cambridge Psychometrics Centre](https://www.psychometrics.cam.ac.uk/about-us/directory/koen-de-couck). Besides big data, past projects also included the development of online tools, such as a [<cite>solar radiometer visualization</cite>](https://github.com/koendecouck/radiometer) and a [<cite>Custom R package for data visualizations</cite>](/404.html). My personal background has been marked with intense personal experiences: fighting off cancer during my twenties, living and working in multiple countries and working closely with top entrepreneurs to solve meaningful real-world problems.
+I'm an alumni of the Universities of [Ghent](http://www.ugent.be), [Rotterdam](http://www.eur.nl), [Cambridge](http://www.cam.ac.uk) and [Washington](http://www.washington.edu), where my course work focused on multivariate statistics, data science and programming. I am also a [Fulbright alumni](http://www.fulbright.be) and a member of [Under 30 Changemakers](https://view.publitas.com/under-30-changemakers/stories-of-purpose/page/50-51), [Change](http://change.washington.edu/),  [Design-Use-Build (DUB)](http://www.dub.washington.edu/people/koen-de-couck), [Kairos Society](http://www.kairossociety.org), [Cambridge Scientific Society](http://www.scisoc.com) and an affiliated member of the [Cambridge Psychometrics Centre](https://www.psychometrics.cam.ac.uk/about-us/directory/koen-de-couck). Besides big data, past projects also included the development of online tools, such as a [<cite>solar radiometer visualization</cite>](https://github.com/koendecouck/radiometer) and a [<cite>Custom R package for data visualizations</cite>](/404.html). My personal background has been marked with intense personal experiences: fighting off cancer during my twenties, living and working in multiple countries and working closely with top entrepreneurs to solve meaningful real-world problems.
 
 For a more comprehensive overview of all this, you can [find me on LinkedIn](https://linkedin.com/in/koendecouck).
 
@@ -81,9 +81,25 @@ GitHub](https://github.com/koendecouck/koendecouck.github.io).
 <ol class="list-ui  mb">
 
   <li class="list-ui__item">
-    <h3 class="list-ui__title">Youtube</h3>
-    <time>2017-06-13</time>: <a href="https://www.youtube.com/watch?v=yTAAAloIPTg">Fulbright Advice</a>
+    <h3 class="list-ui__title">Video</h3>
+    <time>2017-06-13</time>: <a href="https://www.youtube.com/watch?v=yTAAAloIPTg">Fulbright Award</a>
   </li>
+
+  <li class="list-ui__item">
+    <h3 class="list-ui__title">Video</h3>
+    <time>2014-09-11</time>: <a href="http://www.sofinaboel.be/laureats/2014/">Sofina-Boel Award</a>
+  </li>
+
+  <li class="list-ui__item">
+    <h3 class="list-ui__title">Transcript</h3>
+    <time>2011-04-26</time>: <a href="http://docs.vlaamsparlement.be/docs/handelingen_commissies/2010-2011/c0m208ond23-26042011.pdf">Parlement Debate on Master Thesis</a>
+  </li>
+
+  <li class="list-ui__item">
+    <h3 class="list-ui__title">Wikipedia</h3>
+    <time>2010-06-30</time>: <a href="https://nl.wikipedia.org/wiki/Lijst_van_scriptieprijzen">Klasse Award</a>
+  </li>
+
 <!--
   <li class="list-ui__item">
     <h3 class="list-ui__title">Podcast</h3>
